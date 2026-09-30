@@ -14,3 +14,4 @@ for char in separateChars:
 
 newWord = ''.join(encryptedWord)
 print("The new word is",newWord)
+
